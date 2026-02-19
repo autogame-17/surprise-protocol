@@ -1,0 +1,21 @@
+{
+  "name": "surprise-protocol",
+  "version": "1.0.1",
+  "description": "A serendipity engine for AI agents. Keeps interactions fresh by periodically generating unexpected creative content (images, insights, jokes).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fun",
+    "creative",
+    "agent",
+    "surprise",
+    "engagement"
+  ],
+  "author": "OpenClaw",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
